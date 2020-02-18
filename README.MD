@@ -29,6 +29,9 @@
 | 2020-02-12    | [Situation Report 23](/2019-nCov/2020-02-12/20200212-sitrep-23-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-12/2020-02-12.csv) |
 | 2020-02-13    | [Situation Report 24](/2019-nCov/2020-02-13/20200213-sitrep-24-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-13/2020-02-13.csv) |
 | 2020-02-14    | [Situation Report 25](/2019-nCov/2020-02-14/20200214-sitrep-25-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-14/2020-02-14.csv) |
+| 2020-02-15    | [Situation Report 26](/2019-nCov/2020-02-15/20200215-sitrep-26-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-15/2020-02-15.csv) |
+| 2020-02-16    | [Situation Report 27](/2019-nCov/2020-02-16/20200216-sitrep-27-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-16/2020-02-16.csv) |
+| 2020-02-17    | [Situation Report 28](/2019-nCov/2020-02-16/20200217-sitrep-28-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-17/2020-02-17.csv) |
 
 ## Disclaimer
 
