@@ -1,0 +1,93 @@
+<html>
+
+<head>
+    <title>Corona Virus 2019-nCoV Global Chart</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {
+            'packages': ['line']
+        });
+        google.charts.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+
+            var data = new google.visualization.DataTable();
+            data.addColumn('date', 'Day');
+            data.addColumn('number', 'Global Infections');
+            data.addColumn('number', 'Global Deaths');
+
+
+            data.addRows([
+                [new Date(2020, 00, 21), 278, 0],
+                [new Date(2020, 00, 22), 313, 0],
+                [new Date(2020, 00, 23), 578, 0],
+                [new Date(2020, 00, 24), 841, 0],
+                [new Date(2020, 00, 25), 1320, 0],
+                [new Date(2020, 00, 26), 2014, 0],
+                [new Date(2020, 00, 27), 2798, 0],
+                [new Date(2020, 00, 28), 4590, 0],
+                [new Date(2020, 00, 29), 6065, 0],
+                [new Date(2020, 00, 30), 7818, 0],
+                [new Date(2020, 00, 31), 9826, 0],
+                [new Date(2020, 01, 01), 11952, 0],
+                [new Date(2020, 01, 02), 14557, 0],
+                [new Date(2020, 01, 03), 17391, 362],
+                [new Date(2020, 01, 04), 20630, 426],
+                [new Date(2020, 01, 05), 24554, 492],
+                [new Date(2020, 01, 06), 28258, 565],
+                [new Date(2020, 01, 07), 31420, 638],
+                [new Date(2020, 01, 08), 34822, 724],
+                [new Date(2020, 01, 09), 37558, 813],
+                [new Date(2020, 01, 10), 40554, 910],
+                [new Date(2020, 01, 11), 43103, 1018],
+                [new Date(2020, 01, 12), 45562, 1114],
+                [new Date(2020, 01, 13), 46997, 1369],
+                [new Date(2020, 01, 14), 49053, 1383],
+                [new Date(2020, 01, 15), 50581, 1526],
+                [new Date(2020, 01, 16), 51857, 1669],
+                [new Date(2020, 01, 17), 71428, 1775]
+            ]);
+
+            var options = {
+                chart: {
+                    title: 'Corona Virus 2019-nCoV Global Chart',
+                    subtitle: ''
+                },
+                width: 1024,
+                height: 500,
+                curveType: 'function',
+            };
+
+            var chart = new google.charts.Line(document.getElementById('linechart_material'));
+
+            chart.draw(data, google.charts.Line.convertOptions(options));
+        }
+    </script>
+    <style>
+        body {
+            display: flex;
+            width: 100%;
+            height: 500px;
+            margin: auto;
+            background-color: rgb(255, 255, 255);
+        }
+        
+        .chart {
+            width: 100%;
+            min-height: 450px;
+        }
+        
+        .row {
+            margin: 0 !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="linechart_material" style="margin:0 auto;"></div>
+</body>
+
+</html>
