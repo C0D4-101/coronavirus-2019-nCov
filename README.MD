@@ -33,6 +33,13 @@
 | 2020-02-16    | [Situation Report 27](/2019-nCov/2020-02-16/20200216-sitrep-27-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-16/2020-02-16.csv) |
 | 2020-02-17    | [Situation Report 28](/2019-nCov/2020-02-17/20200217-sitrep-28-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-17/2020-02-17.csv) |
 | 2020-02-18    | [Situation Report 29](/2019-nCov/2020-02-18/20200218-sitrep-29-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-18/2020-02-18.csv) |
+| 2020-02-19    | [Situation Report 30](/2019-nCov/2020-02-19/20200219-sitrep-30-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-19/2020-02-19.csv) |
+| 2020-02-20    | [Situation Report 31](/2019-nCov/2020-02-20/20200220-sitrep-31-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-20/2020-02-20.csv) |
+| 2020-02-21    | [Situation Report 32](/2019-nCov/2020-02-21/20200221-sitrep-32-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-21/2020-02-21.csv) |
+| 2020-02-22    | [Situation Report 33](/2019-nCov/2020-02-22/20200222-sitrep-33-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-22/2020-02-22.csv) |
+| 2020-02-23    | [Situation Report 34](/2019-nCov/2020-02-23/20200223-sitrep-34-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-23/2020-02-23.csv) |
+| 2020-02-24    | [Situation Report 35](/2019-nCov/2020-02-24/20200224-sitrep-35-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-24/2020-02-24.csv) |
+| 2020-02-25    | [Situation Report 36](/2019-nCov/2020-02-25/20200225-sitrep-36-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-25/2020-02-25.csv) |
 
 ## Disclaimer
 
