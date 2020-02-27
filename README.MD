@@ -40,9 +40,10 @@
 | 2020-02-23    | [Situation Report 34](/2019-nCov/2020-02-23/20200223-sitrep-34-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-23/2020-02-23.csv) |
 | 2020-02-24    | [Situation Report 35](/2019-nCov/2020-02-24/20200224-sitrep-35-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-24/2020-02-24.csv) |
 | 2020-02-25    | [Situation Report 36](/2019-nCov/2020-02-25/20200225-sitrep-36-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-25/2020-02-25.csv) |
+| 2020-02-26    | [Situation Report 37](/2019-nCov/2020-02-26/20200226-sitrep-37-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-26/2020-02-26.csv) |
 
 ## Disclaimer
 
-All data is derived from the situation reports made available by the [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/).
+All data is derived from the situation reports made available by the [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
 
 This repository is not maintained by the World Health Organization.
