@@ -41,6 +41,7 @@
 | 2020-02-24    | [Situation Report 35](/2019-nCov/2020-02-24/20200224-sitrep-35-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-24/2020-02-24.csv) |
 | 2020-02-25    | [Situation Report 36](/2019-nCov/2020-02-25/20200225-sitrep-36-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-25/2020-02-25.csv) |
 | 2020-02-26    | [Situation Report 37](/2019-nCov/2020-02-26/20200226-sitrep-37-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-26/2020-02-26.csv) |
+| 2020-02-27    | [Situation Report 38](/2019-nCov/2020-02-27/20200227-sitrep-38-2019-ncov.pdf)| [CSV](/2019-nCov/2020-02-27/2020-02-27.csv) |
 
 ## Disclaimer
 
